@@ -1,0 +1,2 @@
+# Algorithmic-Trader
+Self Project
